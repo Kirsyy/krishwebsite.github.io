@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title> chunkyrat123xD </title>
 </head>
  <img src="https://lh3.googleusercontent.com/a/ACg8ocKqPp3eQxvdvnMGNSAx-TeYk0ZJMmFhZz8l8Xx0ekSZDypii3e5=s288-c-no"> 
 <body style="background-color:red;">
